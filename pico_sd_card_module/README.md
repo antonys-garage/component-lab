@@ -14,7 +14,6 @@ By **Antony's Garage** ([@code_antony](https://github.com/code_antony))
 - Pins for clock, chip select and two data lines, plus a separate card-detect pin (CD)
 - Onboard SMD resistors beside the slot
 - Pico-style footprint, works with Pico and ESP32 boards
-- Size: **[__ mm × __ mm]** *(measure and fill in)*
 
 ---
 
